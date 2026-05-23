@@ -1,16 +1,16 @@
-## designing and building
+UI/UX Designer • Building with AI
 
-<!--
-**limmrax/limmrax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**_________________________________________________________________________________________________________________________**
 
-Here are some ideas to get you started:
+## Shipments/Creations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  • Operations @ **Scuba** - Ongoing
+  • UI/UX Designer @ **Warmo** - Feb 2026
+  • SEO Tech Developer Internship - June 2025
+## Creations
+  • Fintech & crypto tracker CLI tool - June 2025
+  • Book recommendation web app with dashboard + API integrations - July 2025
+
+**_________________________________________________________________________________________________________________________**
+
+always learning.
